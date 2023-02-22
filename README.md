@@ -1,0 +1,1 @@
+Sistema de uma loja de vendas na qual tem a função de dar uma determinada porcentagem de desconto referente a quantidade de produto comprada afetando o preço final - Sistema feito em (Python) sistema para treinamento das funções - if | elif | else - Mini Projeto feito como trabalho na disciplina de Lógica de Programação e Algoritmo.
